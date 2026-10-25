@@ -1,0 +1,1 @@
+This is a settings json setup for you when coding a game like settings languages 
